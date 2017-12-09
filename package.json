@@ -6,11 +6,15 @@
   "scripts": {
     "start": "react-native run-ios",
     "eject": "react-native eject",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "bsb -make-world -clean-world",
+    "watch": "bsb -make-world -clean-world -w"
   },
   "author": "mzp <mzpppp@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "bs-platform": "^2.1.0",
+    "bs-react-native": "^0.3.0",
     "react": "^16.2.0",
     "react-native": "^0.51.0"
   }

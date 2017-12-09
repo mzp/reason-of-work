@@ -1,9 +1,15 @@
-= :office: Reason of work
+# :office: Reason of work
 
 ## :wrench: Build
 
-```shell
+### Setup
+```sh
 yarn
 yarn eject
+```
+
+### Build
+```sh
+yarn build
 yarn start
 ```
