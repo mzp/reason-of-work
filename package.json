@@ -5,6 +5,7 @@
   "main": "App.js",
   "scripts": {
     "start": "react-native run-ios",
+    "eject": "react-native eject",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mzp <mzpppp@gmail.com>",
