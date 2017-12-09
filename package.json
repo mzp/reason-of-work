@@ -1,0 +1,11 @@
+{
+  "name": "reason-of-work",
+  "version": "1.0.0",
+  "description": "Nothing!!!",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mzp <mzpppp@gmail.com>",
+  "license": "MIT"
+}
