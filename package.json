@@ -8,6 +8,7 @@
     "eject": "react-native eject",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "bsb -make-world -clean-world",
+    "test": "bsb -make-world -clean-world && jest",
     "watch": "bsb -make-world -clean-world -w"
   },
   "author": "mzp <mzpppp@gmail.com>",
